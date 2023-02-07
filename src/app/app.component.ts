@@ -11,6 +11,7 @@ export class AppComponent {
   userData = {
     email: 'Joaquim@gmail.com',
     role: 'Adimin',
+    fone: 81900000000,
   };
 
   title = 'curso-angular';
