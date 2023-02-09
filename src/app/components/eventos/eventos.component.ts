@@ -18,10 +18,6 @@ export class EventosComponent implements OnInit {
 
     }
 
-    mudaCor(): void {
-      this.cor = true;
-
-
     }
 
-}
+
