@@ -9,7 +9,7 @@ export class FirstComponentComponent implements OnInit {
   name: string = 'Ivson';
   age: number = 35;
   job = 'Programador';
-  hobbies = ['Correr', 'Jogar', 'Estudars'];
+  hobbies = ['Correr', 'Jogar', 'Estudar'];
   car = {
     name: 'Celta',
     year: 2012,
